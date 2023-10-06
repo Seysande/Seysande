@@ -9,10 +9,11 @@
 
 
 - 🌱 I’m currently learning ...
-- Data Structures and Algorithms
 - Python
 - Bioinformatics
-- Protein Engineering
+- JavaScript, CSS
+- R
+
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
