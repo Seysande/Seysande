@@ -2,8 +2,7 @@
 - I'm a 4th year undergraduate student working towards a BS in biochemistry and a minor in computational biology.
 
 - 👀 I’m interested in ...
-  Learning techniques in biocinformatics and genomics, as well as advancing my skills working with molecular
-  modeling software to study drug interactions with proteins. 
+  Learning techniques in biocinformatics and genomics, single cell sequencing and genetics
 
 
 
