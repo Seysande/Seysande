@@ -8,10 +8,10 @@
 
 
 - 🌱 I’m currently learning ...
-- Python
+- Python, R
 - Bioinformatics
-- JavaScript, CSS
-- R
+- JavaScript, CSS, React 
+
 
 
 - 💞️ I’m looking to collaborate on ...
