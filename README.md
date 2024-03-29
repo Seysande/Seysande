@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seysande
-- I'm a 4th year undergraduate student working towards a BS in biochemistry and a minor in computational biology.
+- I'm a 4th year undergraduate student working towards a BS in Genetics and a minor in computational biology.
 
 - 👀 I’m interested in ...
   Learning techniques in biocinformatics and genomics, single cell sequencing and genetics
@@ -8,9 +8,8 @@
 
 
 - 🌱 I’m currently learning ...
-- Python, R
+- Linear Algebra
 - Bioinformatics
-- JavaScript, CSS, React 
 
 
 
