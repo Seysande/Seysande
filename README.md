@@ -2,7 +2,7 @@
 - I'm a 4th year undergraduate student working towards a BS in Genetics and a minor in biochemistry
 
 - 👀 I’m interested in ...
-  Learning techniques in biocinformatics and genomics, single cell sequencing and genetics
+  Learning techniques in biocinformatics and genomics
 
 
 
