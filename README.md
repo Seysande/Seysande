@@ -8,9 +8,6 @@
 
 
 - 🌱 I’m currently learning ...
-- Linear Algebra
-- Bioinformatics
-
 
 
 - 💞️ I’m looking to collaborate on ...
