@@ -1,18 +1,7 @@
-- 👋 Hi, I’m @Seysande
-- I'm a 4th year undergraduate student working towards a BS in Genetics and a minor in biochemistry
-
-- 👀 I’m interested in ...
-  Learning techniques in biocinformatics and genomics
+Hi, I’m @Seysande
+4th year undergraduate student working towards a BS in Genetics and a minor in biochemistry
 
 
-
-
-- 🌱 I’m currently learning ...
-
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-  You can reach me at marqueztrevor0@gmail.com
 
 
 <!---
