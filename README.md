@@ -1,5 +1,5 @@
 Hi, I’m @Trevor
-4th year undergraduate student working towards a BS in Genetics and a minor in biochemistry
+4th year undergraduate student working towards a BS in Genetics and a minor in Biochemistry
 
 
 
